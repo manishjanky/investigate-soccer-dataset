@@ -41,4 +41,4 @@ The dataset *soccer.sqlite* was used which can also be downloaded from [Kaggle](
 * https://stackoverflow.com/ in other cases when needed help
 
 #### Improvements/Suggestion
-If you find and issues or have any suggestion that can help improve the analysis to help answer the posed question you are very welcome to do so by raising an issue here on Github.
+If you find any issues or have any suggestion that can help improve the analysis to help answer the posed question in a better way you are very welcome to do so by raising an issue here on Github.
